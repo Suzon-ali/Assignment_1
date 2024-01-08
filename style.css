@@ -535,6 +535,12 @@ footer p,a{
     gap: 4px;
 }
 
+.call div, .website div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
 .footer__social{
     display: flex;
     justify-content: center;
